@@ -33,6 +33,8 @@ Final Answer
 
 ---
 
+<img src="blob:https://gemini.google.com/91cd4b6b-08cb-4ce7-a852-7da2f3367c97" alt="RAG Image">
+
 ## 🧩 Components of RAG
 
 ### 1. Data Ingestion
